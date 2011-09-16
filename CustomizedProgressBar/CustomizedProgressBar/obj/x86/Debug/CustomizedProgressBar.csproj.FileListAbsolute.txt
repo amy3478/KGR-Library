@@ -1,0 +1,18 @@
+C:\Users\yiming\AppData\Local\Temporary Projects\CustomizedProgressBar\bin\Debug\CustomizedProgressBar.exe
+C:\Users\yiming\AppData\Local\Temporary Projects\CustomizedProgressBar\bin\Debug\CustomizedProgressBar.pdb
+C:\Users\yiming\AppData\Local\Temporary Projects\CustomizedProgressBar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\yiming\AppData\Local\Temporary Projects\CustomizedProgressBar\obj\x86\Debug\MainWindow.baml
+C:\Users\yiming\AppData\Local\Temporary Projects\CustomizedProgressBar\obj\x86\Debug\MainWindow.g.cs
+C:\Users\yiming\AppData\Local\Temporary Projects\CustomizedProgressBar\obj\x86\Debug\App.g.cs
+C:\Users\yiming\AppData\Local\Temporary Projects\CustomizedProgressBar\obj\x86\Debug\CustomizedProgressBar_MarkupCompile.cache
+C:\Users\yiming\AppData\Local\Temporary Projects\CustomizedProgressBar\obj\x86\Debug\CustomizedProgressBar.g.resources
+C:\Users\yiming\AppData\Local\Temporary Projects\CustomizedProgressBar\obj\x86\Debug\CustomizedProgressBar.Properties.Resources.resources
+C:\Users\yiming\AppData\Local\Temporary Projects\CustomizedProgressBar\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\yiming\AppData\Local\Temporary Projects\CustomizedProgressBar\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\yiming\AppData\Local\Temporary Projects\CustomizedProgressBar\obj\x86\Debug\CustomizedProgressBar.exe
+C:\Users\yiming\AppData\Local\Temporary Projects\CustomizedProgressBar\obj\x86\Debug\CustomizedProgressBar.pdb
+C:\Users\yiming\AppData\Local\Temporary Projects\CustomizedProgressBar\obj\x86\Debug\CProgressBar.baml
+C:\Users\yiming\AppData\Local\Temporary Projects\CustomizedProgressBar\obj\x86\Debug\CProgressBar.g.cs
+C:\Users\yiming\AppData\Local\Temporary Projects\CustomizedProgressBar\obj\x86\Debug\Dictionary1.baml
+C:\Users\yiming\KGR-Library\CustomizedProgressBar\CustomizedProgressBar\obj\x86\Debug\CustomizedProgressBar.exe
+C:\Users\yiming\KGR-Library\CustomizedProgressBar\CustomizedProgressBar\obj\x86\Debug\CustomizedProgressBar.pdb
